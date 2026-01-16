@@ -1,2 +1,7 @@
-Repositorio creado para la práctica 5.1 de Despliegue de aplicaciones web
-Realizado por Juan Ferrando 2-DAW
+## Compañeros de clase
+
+| Nombre | GitHub |
+| :--- | :--- |
+| Eugenia | https://github.com/lilalini |
+| Lu | https://github.com/Luu-01 |
+| Lisho | https://github.com/Ultralisho |
